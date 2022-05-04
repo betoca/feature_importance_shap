@@ -7,6 +7,7 @@
     "frequentlyUsed": true,
     "custom": {
         "modelopPackageVersion": "0.13.0",
-        "MODEL_VERTICAL" : "AMLA"
+        "MODEL_VERTICAL" : "AMLA",
+        "MODEL_DESCRIPTION" : "NApp"
     }
 }
