@@ -6,8 +6,6 @@
     "defaultAssociationRole": "PERFORMANCE_MODEL",
     "frequentlyUsed": true,
     "custom": {
-        "modelopPackageVersion": "0.13.0",
-        "MODEL_VERTICAL" : "AMLA",
-        "MODEL_DESCRIPTION" : "NApp"
+        "modelopPackageVersion": "0.13.0"
     }
 }
